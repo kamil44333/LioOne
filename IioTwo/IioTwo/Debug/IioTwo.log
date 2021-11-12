@@ -1,0 +1,6 @@
+﻿  IioTwo.cpp
+C:\Users\Камиль\source\repos\IioTwo\IioTwo\IioTwo.cpp(33,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Камиль\source\repos\IioTwo\IioTwo\IioTwo.cpp(35,26): warning C4244: инициализация: преобразование "clock_t" в "short", возможна потеря данных
+C:\Users\Камиль\source\repos\IioTwo\IioTwo\IioTwo.cpp(57,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Камиль\source\repos\IioTwo\IioTwo\IioTwo.cpp(103,24): warning C4244: инициализация: преобразование "clock_t" в "short", возможна потеря данных
+  IioTwo.vcxproj -> C:\Users\Камиль\source\repos\IioTwo\Debug\IioTwo.exe
